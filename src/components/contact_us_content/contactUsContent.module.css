@@ -1,0 +1,26 @@
+.main{
+    background-color: lightgray;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.label{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+
+.name{
+    display: flex;
+    gap: 20px;
+}
+
+.saveButton{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 5px 0px 10px 0px;
+}
